@@ -1,12 +1,12 @@
 .place__website {
-    list-style: none;
-    align-self: flex-end;
-    width: calc(100%/2);
+    display: none;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 768px) {
     .place__website {
-      display: none;
+      display: block;
+      width: calc(100%/2);
+      align-self: flex-end;
     }
-  }
+}
   

@@ -5,8 +5,10 @@
   text-decoration: underline;
   color: #ffffff;
   margin-top: 12px;
+  transition: opacity .1s linear .5s;
 }
 
 .place__link:hover {
     opacity: .8;
+    transition: opacity .1s linear .5s;
 }
