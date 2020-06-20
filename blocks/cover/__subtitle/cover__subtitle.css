@@ -3,7 +3,7 @@
   text-align: center;
   margin: 0 auto;
   z-index: 3;
-  max-width: 90vw;
+  max-width: 90%;
   font-size: 14px;
   line-height: 1.14;
   color: #ffffff;
@@ -11,7 +11,7 @@
 
 @media screen and (min-width: 768px) {
   .cover__subtitle {
-      max-width: 47vw;
+      max-width: 47%;
       font-size: 18px;
       line-height: 1.22;
   }
@@ -19,12 +19,12 @@
 
 @media screen and (min-width: 1024px) {
   .cover__subtitle {
-      max-width: 35vw;
+      max-width: 35%;
   }
 }
 
 @media screen and (min-width: 1280px) {
   .cover__subtitle {
-      max-width: 28vw;
+      max-width: 30.4%;
   }
 }

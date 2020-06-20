@@ -3,11 +3,8 @@
   line-height: 1.33;
   text-decoration: none;
   margin-left: 18px;
-  margin-bottom: 0;
-  padding: 0;
-  list-style: none;
   color: #ffffff;
-  display: flex;
+  transition: opacity .1s linear .5s;
 }
 
 @media screen and (min-width: 768px) {
@@ -17,4 +14,8 @@
   }
 }
 
+.header__lang-link:hover {
+  opacity: .8;
+  transition: opacity .1s linear .5s;
+}
 

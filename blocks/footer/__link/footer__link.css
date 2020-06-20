@@ -2,8 +2,6 @@
   font-weight: normal;
   font-size: 24px;
   line-height: 1;
-  display: block;
-  margin-bottom: 32px;
   text-decoration: none;
   color: #ffffff;
   transition: opacity .1s linear .5s;
@@ -18,7 +16,5 @@
   .footer__link {
     font-size: 16px;
     line-height: 1.125;
-    margin-right: 18px;
-    margin-bottom: 0;
   }
 }

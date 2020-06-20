@@ -4,7 +4,7 @@
 @import url(./__list-span-accent/intro__list-span-accent.css);
 
 .intro {
-   max-width: 90%;
+   width: 90%;
    margin: auto;
 }
 
